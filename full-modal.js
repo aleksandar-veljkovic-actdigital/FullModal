@@ -4,7 +4,7 @@
  *  jQuery OwlCarouselRtl v.0.9.0
  *
  *  Copyright (c) 2015 Aleksandar Veljkovic
- *  https://github.com/biosonic
+ *  https://github.com/biosonic/FullModal.git
  *
  *  Licensed under MIT
  *

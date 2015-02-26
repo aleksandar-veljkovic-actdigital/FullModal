@@ -65,7 +65,7 @@ fullModal.close();
 To feet to vieport (no scroll);
 ```js
 $("some-content-selector").fullModal({
-    aditionalStyle: "html,body,#dwf-fullscreen-wrap{width:100%;height:100%;overflow:hidden}"
+    aditionalStyle: "html,body,#dwf-fullscreen-wrap{width:100%;height:100%;overflow:hidden;position:relative;}"
 });
 ```
 
